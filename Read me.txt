@@ -1,0 +1,19 @@
+I have learned in these project:
+
+CSS:
+
+using a varible in CSS :root { --bla-bla: value; }
+transform: scale
+overflow: hidden // to hidde the scroll
+transition: 0.4s ease
+display flex;
+::befor // for styling a class but not show this style after the function
+button:disabled // to dshow it as a disable button
+outline:0;
+
+JS:
+
+- queryselectorAll: to select all the elements that has the same id or class or value or ... 
+- forEach
+- classList.add/remove
+- 
